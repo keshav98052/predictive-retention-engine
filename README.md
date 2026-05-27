@@ -6,9 +6,6 @@
 
 An end-to-end Machine Learning web application designed to transform raw transactional sales data into a targeted, predictive marketing strategy. 
 
-## 🚀 Live Demo
-**[Click here to view the live application](insert-your-streamlit-url-here)** *(Make sure to replace this with your actual Streamlit link!)*
-
 ## 🧠 Overview
 This tool transitions a company from looking at historical analytics to executing a predictive strategy. It automatically isolates high-value customers who have a high probability of churning and aggregates their forecasted lost revenue, allowing businesses to stop revenue leaks before they happen.
 
